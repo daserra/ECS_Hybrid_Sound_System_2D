@@ -4,7 +4,7 @@ This is a simple example how use unity ECS to create a sound system for 2D Games
 
 Sound System:
 - Set the volume and stereo pan based on player position.
-- Flexible and simples audio source configuration with radius of range and max volume.
+- Flexible and simple audio source configuration with radius of range and max volume.
 
 ### Installation
 Just clone this repository folder and open it in Unity.
