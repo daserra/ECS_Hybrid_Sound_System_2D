@@ -1,5 +1,7 @@
 # ECS_Hybrid_Sound_System_2D
 
+How it works : https://www.youtube.com/watch?v=ztDeFGbuYYU
+
 This is a simple example how use unity ECS to create a sound system for 2D Games. 
 
 Sound System:
